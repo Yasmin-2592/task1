@@ -1,9 +1,5 @@
 import 'package:flutter/cupertino.dart';
-import 'package:flutter/material.dart';
-
-import 'home_screen.dart';
-import 'second_screen.dart';
-import 'third_screen.dart';
+import 'package:my_first_app/my_app.dart';
 
 void main() {
   runApp(MyApp());
